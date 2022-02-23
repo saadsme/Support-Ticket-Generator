@@ -8,3 +8,8 @@ You are developing a Help Desk System for an IT company. All IT related issues m
 •	Implement a Ticket class with the following attributes. It should also implement comparison operators.
     Priority – 1 to 10, Description, Arriving time
 
+•	In the main, write a menu that displays the below items:
+•	New Ticket – Adds a ticket to the heap based on the priority. Generate arriving time of the ticket as provided.
+•	Serve Ticket – Deletes the Ticket that is been served. Note that the highest priority ticket must be served first. Get the current time and display as processing time. 
+•	Display Pending Tickets – Display all the tickets yet to be served. 
+•	Exit
